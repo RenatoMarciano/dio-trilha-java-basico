@@ -1,4 +1,8 @@
-package com.example.operadores;
+package com.example.operadores.metodo;
+
+import com.example.operadores.metodo.Calculadora;
+import com.example.operadores.metodo.Emprestimo;
+import com.example.operadores.metodo.Mensagem;
 
 public class Main {
 

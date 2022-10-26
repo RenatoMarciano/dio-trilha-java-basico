@@ -1,4 +1,4 @@
-package com.example.operadores;
+package com.example.operadores.metodo;
 
 public class HelloApplication {
 
